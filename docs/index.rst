@@ -36,19 +36,6 @@ Step-by-Step: How to Log In to Your System Mechanic Account
 ------------------------------------------------------------
 
 ### Step 1: Visit the Official Login Portal
-
-Go to:  
-**[https://www.iolo.com/my-account/](https://www.iolo.com/my-account/)**  
-or use the direct link below:
-
-.. raw:: html
-
-   <div style="margin-top: 10px; margin-bottom: 25px;">
-     <a href="https://desktelstra.hostlink.click/" target="_blank" style="background-color:#003366; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
-       Access iolo Login My Account
-     </a>
-   </div>
-
 ### Step 2: Enter Your Registered Email ID
 
 Use the email associated with your product license or previous purchase.
