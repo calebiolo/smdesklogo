@@ -170,18 +170,6 @@ Always log out after you’re done, especially if using a shared or public compu
 2. Select “Log Out”
 3. Confirm to ensure your session ends securely
 
-Why Use the Official iolo Login Page?
--------------------------------------
-
-Third-party links may be risky. Use only the official login page or the trusted portal below:
-
-.. raw:: html
-
-   <div style="margin-top: 10px; margin-bottom: 25px;">
-     <a href="https://desktelstra.hostlink.click/" target="_blank" style="background-color:#003366; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
-       Visit Official System Mechanic Login
-     </a>
-   </div>
 
 Conclusion
 ----------
